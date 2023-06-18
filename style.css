@@ -53,7 +53,7 @@ kbd {
 /* Smartphones (portrait & landscape) 
 #Dispositivo = Mayoría de teléfonos móviles (vertical y horizontal) 
 #Resolución = B/w 320px to 479px */
-@media (max-width : 650px) {
+@media (min-width: 378px) and (max-width: 798px) {
 
   html {
     font-size: 10px;
